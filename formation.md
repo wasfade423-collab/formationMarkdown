@@ -64,7 +64,7 @@ Pour faire un lien hypertexte, on met entre [] **crochets** le **nom qu'on souha
 
 Pour faire une image, on met un **pointd'exclamation** et entre [] **crochets** le **nom qu'on souhaite afficher** sur l'image(au cas où elle ne sera pas trouvé) puis on le fait suivre du **chemin vers l'image** entre **parenthèses** ().
 
-> Exemple: ![Logo de Markdow](assets/logoMarkdow.jpg)
+> Exemple: ![Logo de Markdow](logoMarkdow.jpg)
 
 ## Les extraits de code et blocs de code
 
